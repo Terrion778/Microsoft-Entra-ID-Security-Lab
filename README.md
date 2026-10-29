@@ -1,7 +1,6 @@
-# Microsoft-Entra-ID-Security-Lab
-Cloud Identity and Access Management cybersecurity lab
-
 # Microsoft Entra ID — Cloud Security & IAM Lab
+
+Cloud Identity and Access Management cybersecurity
 
 ## Project Overview
 

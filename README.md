@@ -30,7 +30,8 @@ Created six fictional employee accounts organized into three departments:
 
 Configured three security groups to organize employee access.
 
-![Users and Groups](screenshots/users-and-groups.png)
+![Users](screenshots/users.png)
+  
 
 ### 2. Role-Based Access Control
 
